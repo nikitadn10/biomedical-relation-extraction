@@ -1,0 +1,6 @@
+drug,symptom,relation,bert_confidence,method,sentence,dependency_path
+Aspirin,headache,TREATS,0.9992,Dependency rule,Aspirin relieved the patient's headache.,Aspirin -> relieved -> headache
+Penicillin,rash,CAUSES,0.9980,Dependency rule,Penicillin produced a severe rash.,Penicillin -> produced -> rash
+Paracetamol,pain,TREATS,0.9997,Dependency rule,Paracetamol was prescribed for pain.,Paracetamol -> prescribed -> for -> pain
+Amoxicillin,infection,TREATS,0.9997,Dependency rule,Amoxicillin treated the bacterial infection.,Amoxicillin -> treated -> infection
+Ibuprofen,vomiting,CAUSES,0.9982,Dependency rule,Ibuprofen caused vomiting.,Ibuprofen -> caused -> vomiting
